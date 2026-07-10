@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Vinod1403/LeetGo/tree/master/0127-word-ladder) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vinod1403/LeetGo/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vinod1403/LeetGo/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
