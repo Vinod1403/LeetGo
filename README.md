@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Vinod1403/LeetGo/tree/master/0127-word-ladder) |
 ## String
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vinod1403/LeetGo/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
