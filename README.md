@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Vinod1403/LeetGo/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vinod1403/LeetGo/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Vinod1403/LeetGo/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vinod1403/LeetGo/tree/master/0050-powx-n) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vinod1403/LeetGo/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Vinod1403/LeetGo/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
