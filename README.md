@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Vinod1403/LeetGo/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vinod1403/LeetGo/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vinod1403/LeetGo/tree/master/0043-multiply-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Vinod1403/LeetGo/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
