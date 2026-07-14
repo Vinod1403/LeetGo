@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Vinod1403/LeetGo/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinod1403/LeetGo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinod1403/LeetGo/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vinod1403/LeetGo/tree/master/0035-search-insert-position) |
@@ -76,10 +77,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Vinod1403/LeetGo/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinod1403/LeetGo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinod1403/LeetGo/tree/master/0027-remove-element) |
 ## Linked List
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0024-swap-nodes-in-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Vinod1403/LeetGo/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
