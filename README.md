@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Vinod1403/LeetGo/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vinod1403/LeetGo/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vinod1403/LeetGo/tree/master/0041-first-missing-positive) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vinod1403/LeetGo/tree/master/0029-divide-two-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Vinod1403/LeetGo/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
