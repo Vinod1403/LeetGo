@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Vinod1403/LeetGo/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Vinod1403/LeetGo/tree/master/0048-rotate-image) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Vinod1403/LeetGo/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
