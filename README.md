@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vinod1403/LeetGo/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Vinod1403/LeetGo/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Vinod1403/LeetGo/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Vinod1403/LeetGo/tree/master/0038-count-and-say) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vinod1403/LeetGo/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Vinod1403/LeetGo/tree/master/0050-powx-n) |
 ## Array
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Vinod1403/LeetGo/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Vinod1403/LeetGo/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
 ## Greedy
