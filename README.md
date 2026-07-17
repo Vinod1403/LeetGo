@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vinod1403/LeetGo/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinod1403/LeetGo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Vinod1403/LeetGo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinod1403/LeetGo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vinod1403/LeetGo/tree/master/0035-search-insert-position) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
