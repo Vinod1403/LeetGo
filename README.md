@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vinod1403/LeetGo/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vinod1403/LeetGo/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Vinod1403/LeetGo/tree/master/0127-word-ladder) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vinod1403/LeetGo/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Vinod1403/LeetGo/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Vinod1403/LeetGo/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vinod1403/LeetGo/tree/master/0043-multiply-strings) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vinod1403/LeetGo/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Vinod1403/LeetGo/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Vinod1403/LeetGo/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Vinod1403/LeetGo/tree/master/0048-rotate-image) |
