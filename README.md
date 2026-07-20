@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Vinod1403/LeetGo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2256-minimum-average-difference](https://github.com/Vinod1403/LeetGo/tree/master/2256-minimum-average-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0336-palindrome-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [2256-minimum-average-difference](https://github.com/Vinod1403/LeetGo/tree/master/2256-minimum-average-difference) |
 <!---LeetCode Topics End-->
