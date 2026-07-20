@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Vinod1403/LeetGo/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Vinod1403/LeetGo/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/Vinod1403/LeetGo/tree/master/0127-word-ladder) |
+| [0591-tag-validator](https://github.com/Vinod1403/LeetGo/tree/master/0591-tag-validator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinod1403/LeetGo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Vinod1403/LeetGo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Stack
+|  |
+| ------- |
+| [0591-tag-validator](https://github.com/Vinod1403/LeetGo/tree/master/0591-tag-validator) |
 <!---LeetCode Topics End-->
