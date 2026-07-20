@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vinod1403/LeetGo/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vinod1403/LeetGo/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/Vinod1403/LeetGo/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vinod1403/LeetGo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vinod1403/LeetGo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0336-palindrome-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0336-palindrome-pairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinod1403/LeetGo/tree/master/0380-insert-delete-getrandom-o1) |
@@ -107,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Vinod1403/LeetGo/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinod1403/LeetGo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinod1403/LeetGo/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vinod1403/LeetGo/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0024-swap-nodes-in-pairs) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vinod1403/LeetGo/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
