@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0336-palindrome-pairs) |
 | [0385-mini-parser](https://github.com/Vinod1403/LeetGo/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/Vinod1403/LeetGo/tree/master/0591-tag-validator) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinod1403/LeetGo/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vinod1403/LeetGo/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Breadth-First Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinod1403/LeetGo/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinod1403/LeetGo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vinod1403/LeetGo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Simulation
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Vinod1403/LeetGo/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Vinod1403/LeetGo/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/Vinod1403/LeetGo/tree/master/0591-tag-validator) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinod1403/LeetGo/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod1403/LeetGo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
 |  |
