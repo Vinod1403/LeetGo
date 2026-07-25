@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Vinod1403/LeetGo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
 | [2256-minimum-average-difference](https://github.com/Vinod1403/LeetGo/tree/master/2256-minimum-average-difference) |
 ## Backtracking
 |  |
@@ -88,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Vinod1403/LeetGo/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Vinod1403/LeetGo/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
+| [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
+| [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Vinod1403/LeetGo/tree/master/0016-3sum-closest) |
+| [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
 ## Divide and Conquer
 |  |
 | ------- |
