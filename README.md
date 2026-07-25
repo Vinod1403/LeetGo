@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Vinod1403/LeetGo/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vinod1403/LeetGo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2256-minimum-average-difference](https://github.com/Vinod1403/LeetGo/tree/master/2256-minimum-average-difference) |
 ## Backtracking
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vinod1403/LeetGo/tree/master/0043-multiply-strings) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Vinod1403/LeetGo/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinod1403/LeetGo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinod1403/LeetGo/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinod1403/LeetGo/tree/master/0160-intersection-of-two-linked-lists) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Vinod1403/LeetGo/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Linked List
 |  |
 | ------- |
