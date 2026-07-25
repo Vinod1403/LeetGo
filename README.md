@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Vinod1403/LeetGo/tree/master/0127-word-ladder) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinod1403/LeetGo/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Math
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Vinod1403/LeetGo/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Vinod1403/LeetGo/tree/master/0385-mini-parser) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinod1403/LeetGo/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Tree
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2256-minimum-average-difference](https://github.com/Vinod1403/LeetGo/tree/master/2256-minimum-average-difference) |
+## Graph Theory
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vinod1403/LeetGo/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
