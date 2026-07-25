@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinod1403/LeetGo/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinod1403/LeetGo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vinod1403/LeetGo/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vinod1403/LeetGo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vinod1403/LeetGo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+## Sliding Window
+|  |
+| ------- |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinod1403/LeetGo/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
