@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Vinod1403/LeetGo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinod1403/LeetGo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Vinod1403/LeetGo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinod1403/LeetGo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vinod1403/LeetGo/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinod1403/LeetGo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Recursion
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vinod1403/LeetGo/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2109-adding-spaces-to-a-string](https://github.com/Vinod1403/LeetGo/tree/master/2109-adding-spaces-to-a-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinod1403/LeetGo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vinod1403/LeetGo/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinod1403/LeetGo/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinod1403/LeetGo/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vinod1403/LeetGo/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinod1403/LeetGo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinod1403/LeetGo/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinod1403/LeetGo/tree/master/0160-intersection-of-two-linked-lists) |
 | [2109-adding-spaces-to-a-string](https://github.com/Vinod1403/LeetGo/tree/master/2109-adding-spaces-to-a-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinod1403/LeetGo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod1403/LeetGo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinod1403/LeetGo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vinod1403/LeetGo/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -217,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinod1403/LeetGo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinod1403/LeetGo/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
