@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinod1403/LeetGo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Vinod1403/LeetGo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinod1403/LeetGo/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vinod1403/LeetGo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vinod1403/LeetGo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## String
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinod1403/LeetGo/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vinod1403/LeetGo/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vinod1403/LeetGo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2055-plates-between-candles](https://github.com/Vinod1403/LeetGo/tree/master/2055-plates-between-candles) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinod1403/LeetGo/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vinod1403/LeetGo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vinod1403/LeetGo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Sliding Window
