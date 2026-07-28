@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0336-palindrome-pairs) |
 | [0385-mini-parser](https://github.com/Vinod1403/LeetGo/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/Vinod1403/LeetGo/tree/master/0591-tag-validator) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinod1403/LeetGo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Vinod1403/LeetGo/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vinod1403/LeetGo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2055-plates-between-candles](https://github.com/Vinod1403/LeetGo/tree/master/2055-plates-between-candles) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinod1403/LeetGo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vinod1403/LeetGo/tree/master/0035-search-insert-position) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinod1403/LeetGo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/Vinod1403/LeetGo/tree/master/2055-plates-between-candles) |
 ## Bit Manipulation
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinod1403/LeetGo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/Vinod1403/LeetGo/tree/master/2055-plates-between-candles) |
 | [2256-minimum-average-difference](https://github.com/Vinod1403/LeetGo/tree/master/2256-minimum-average-difference) |
 ## Graph Theory
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinod1403/LeetGo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinod1403/LeetGo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vinod1403/LeetGo/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
