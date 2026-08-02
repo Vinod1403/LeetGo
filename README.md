@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vinod1403/LeetGo/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinod1403/LeetGo/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vinod1403/LeetGo/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vinod1403/LeetGo/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vinod1403/LeetGo/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vinod1403/LeetGo/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinod1403/LeetGo/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinod1403/LeetGo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Vinod1403/LeetGo/tree/master/0016-3sum-closest) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vinod1403/LeetGo/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinod1403/LeetGo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Divide and Conquer
 |  |
