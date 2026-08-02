@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0336-palindrome-pairs) |
 | [0385-mini-parser](https://github.com/Vinod1403/LeetGo/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/Vinod1403/LeetGo/tree/master/0591-tag-validator) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vinod1403/LeetGo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinod1403/LeetGo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Vinod1403/LeetGo/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vinod1403/LeetGo/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Vinod1403/LeetGo/tree/master/0043-multiply-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vinod1403/LeetGo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Vinod1403/LeetGo/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2109-adding-spaces-to-a-string](https://github.com/Vinod1403/LeetGo/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinod1403/LeetGo/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Vinod1403/LeetGo/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Vinod1403/LeetGo/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/Vinod1403/LeetGo/tree/master/0591-tag-validator) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Vinod1403/LeetGo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinod1403/LeetGo/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod1403/LeetGo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
