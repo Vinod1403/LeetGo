@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinod1403/LeetGo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinod1403/LeetGo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vinod1403/LeetGo/tree/master/1926-nearest-exit-from-entrance-in-maze) |
