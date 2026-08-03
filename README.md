@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinod1403/LeetGo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vinod1403/LeetGo/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vinod1403/LeetGo/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vinod1403/LeetGo/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vinod1403/LeetGo/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Vinod1403/LeetGo/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinod1403/LeetGo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinod1403/LeetGo/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinod1403/LeetGo/tree/master/0160-intersection-of-two-linked-lists) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Vinod1403/LeetGo/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vinod1403/LeetGo/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod1403/LeetGo/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -259,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Vinod1403/LeetGo/tree/master/1925-count-square-sum-triples) |
+## String Matching
+|  |
+| ------- |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 <!---LeetCode Topics End-->
