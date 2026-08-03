@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Vinod1403/LeetGo/tree/master/0336-palindrome-pairs) |
 | [0385-mini-parser](https://github.com/Vinod1403/LeetGo/tree/master/0385-mini-parser) |
 | [0591-tag-validator](https://github.com/Vinod1403/LeetGo/tree/master/0591-tag-validator) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinod1403/LeetGo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vinod1403/LeetGo/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinod1403/LeetGo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Vinod1403/LeetGo/tree/master/2047-number-of-valid-words-in-a-sentence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinod1403/LeetGo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vinod1403/LeetGo/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vinod1403/LeetGo/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinod1403/LeetGo/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinod1403/LeetGo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinod1403/LeetGo/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2055-plates-between-candles](https://github.com/Vinod1403/LeetGo/tree/master/2055-plates-between-candles) |
 | [2256-minimum-average-difference](https://github.com/Vinod1403/LeetGo/tree/master/2256-minimum-average-difference) |
