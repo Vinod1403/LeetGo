@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1642-furthest-building-you-can-reach](https://github.com/Vinod1403/LeetGo/tree/master/1642-furthest-building-you-can-reach) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinod1403/LeetGo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinod1403/LeetGo/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vinod1403/LeetGo/tree/master/0045-jump-game-ii) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1642-furthest-building-you-can-reach](https://github.com/Vinod1403/LeetGo/tree/master/1642-furthest-building-you-can-reach) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vinod1403/LeetGo/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vinod1403/LeetGo/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/Vinod1403/LeetGo/tree/master/1642-furthest-building-you-can-reach) |
 <!---LeetCode Topics End-->
