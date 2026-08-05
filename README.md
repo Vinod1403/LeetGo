@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinod1403/LeetGo/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Vinod1403/LeetGo/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vinod1403/LeetGo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinod1403/LeetGo/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Vinod1403/LeetGo/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vinod1403/LeetGo/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vinod1403/LeetGo/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vinod1403/LeetGo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vinod1403/LeetGo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/Vinod1403/LeetGo/tree/master/1642-furthest-building-you-can-reach) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinod1403/LeetGo/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Vinod1403/LeetGo/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Vinod1403/LeetGo/tree/master/0016-3sum-closest) |
 | [1402-reducing-dishes](https://github.com/Vinod1403/LeetGo/tree/master/1402-reducing-dishes) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Vinod1403/LeetGo/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Vinod1403/LeetGo/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Vinod1403/LeetGo/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Divide and Conquer
